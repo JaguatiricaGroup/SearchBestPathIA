@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i\tint i"
+			],
+			[
+				"solucao",
+				"solucaoLambda\tdouble * solucaoLambda"
+			],
+			[
+				"sou",
+				"solucaoLambda"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"au",
+				"auxColuna\tdouble * auxColuna"
+			],
+			[
+				"aux",
+				"auxColuna"
+			],
+			[
+				"le",
+				"leSimplex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "install c",
+		"selected_items":
+		[
+			[
+				"install c",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gabrieldias/projetos/trabalhoIa/trabalhoia/backup",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/main.c",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out7",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out8",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out6",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/src/simplex.h",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/src/simplex.c",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out5",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out4",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out2",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out1",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/out3",
+		"/home/gabrieldias/projetos/simplexFuncionaFinal/simplex/src/simplex.c",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/in8",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/Makefile",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/src/lu.c",
+		"/home/gabrieldias/projetos/simplexFinal/simplex/exemplo_entrada_saida/in6",
+		"/home/gabrieldias/.config/sublime-text-3/Packages/User/ClangAutoComplete.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ainda",
+			"printvetor",
+			"atualizaB",
+			"retornaColuna",
+			"ainda",
+			"retor",
+			"atua"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "buscas.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
